@@ -1,23 +1,28 @@
 # Ian Chao
 
-### AI Developer · Product Builder · Project Lead
+### Product Manager · AI Developer · Product Builder
 
-I am an M.S. student in Information Management at **National Taiwan University**, focused on turning AI research and software ideas into practical products.
+I am an M.S. student in Information Management at **National Taiwan University**, working at the intersection of product development, artificial intelligence, and software engineering.
 
+- 📚 **Product Manager @ [BeNovel](https://benovel.site/) — [SparkAct](https://sparkact.co/)**
 - 💼 **AI Development Intern @ Beyondsoft — Microsoft Project**
 - 🚀 **Co-Founder of ADAM**, an AI-driven multimodal analysis venture
-- 🧠 Interested in **multimodal AI, LLM applications, computer vision, and production AI systems**
 - 🏆 **1st Place, Hakka AI Hackathon**
 - 🎮 Experienced in leading cross-functional and international development teams
 
 ## What I Work On
 
 ```text
-AI Development       Multimodal Systems       Computer Vision
-LLM Applications     Software Engineering     Product Development
+Product Management      AI Development         Multimodal Systems
+LLM Applications        Software Engineering   Product Strategy
 ```
 
 ## Experience
+
+### Product Manager · [BeNovel](https://benovel.site/)
+**[SparkAct](https://sparkact.co/)**
+
+Shaping the product direction of BeNovel, a digital writing studio for novelists. I work on product planning and development coordination to turn creative-writing needs into a focused software experience.
 
 ### AI Development Intern · Beyondsoft
 **Microsoft Project**
@@ -29,6 +34,10 @@ Contributing to AI development in an enterprise software environment. Project de
 Helping transform a research project in multimodal satisfaction analysis into a commercial AI solution for service-industry use cases.
 
 ## Selected Work
+
+### [BeNovel — A Digital Writing Studio for Novelists](https://benovel.site/)
+
+A writing and story-management product that brings manuscripts, characters, worldbuilding, comments, reading, export tools, and reviewable AI suggestions into one creative workspace.
 
 ### [ADAM — Multimodal Service Satisfaction Analysis](https://github.com/1104030360/Multimodal_AI_System_for_Service_Satisfaction_Analysis_Facial_Module)
 
@@ -61,4 +70,4 @@ Led a 10-person international team collaborating with Taiwan's bee industry and 
 
 ## Let's Connect
 
-I am interested in AI applications, multimodal systems, software products, and interdisciplinary collaboration.
+I am interested in AI applications, creative software, multimodal systems, digital products, and interdisciplinary collaboration.
