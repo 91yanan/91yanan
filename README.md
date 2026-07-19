@@ -50,8 +50,8 @@ Led the development of an AI application that won **1st Place at the Hakka AI Ha
 ### Transnational Game Project
 
 Led a 10-person international team collaborating with Taiwan's bee industry and Senzoku Gakuen College of Music in Japan. The project was presented internationally and at the Taipei Game Show.
-**[我們的蜂狂人生]([https://sparkact.co/](https://store.steampowered.com/app/4491840/_/?l=tchinese))**
-**[GravityDrift]([https://sparkact.co/](https://tofudoctorr.itch.io/gravitydrift))**
+**[我們的蜂狂人生](https://store.steampowered.com/app/4491840/_/?l=tchinese)**
+**[GravityDrift](https://tofudoctorr.itch.io/gravitydrift)**
 
 ## Education
 
